@@ -1,0 +1,27 @@
+body
+{
+    background-position: center;
+    background-size: cover;
+}
+
+#heading_info{
+    width:100%;
+    text-align: left;
+
+}
+
+
+#heading_info button{
+    float: right;
+    border: 3px solid white;
+    
+}
+
+#heading_info h3{
+    display: inline;
+}
+
+#mario_image{
+    height:600px ;
+    width: 100%;
+}
